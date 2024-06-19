@@ -1,4 +1,4 @@
-# treinamento-analise-cancer-diabetes
+# Treinamento e Análise e datasets de Câncer e Diabetes
 Estudo sobre como realizar treinamento para machine learning
 
 Há diversos dados (datasets) disponíveis para experimentos de aprendizado automático disponíveis para as mais diversas áreas. No caso desse primeiro experimento, vamos considerar dois datasets, um de câncer de mama (Breast Cancer Wisconsin (Diagnostic) Database: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) e
